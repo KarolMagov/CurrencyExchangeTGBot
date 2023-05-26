@@ -1,5 +1,5 @@
 {
-    "name": "bethanybot",
+    "name": "tggggbot",
     "private": true,
     "version": "1.0.0",
     "description": "Telegramm bot ",
@@ -10,7 +10,7 @@
         "dev": "nodemon index.js",
         "fetch": "node fetch.js"
     },
-    "author": "Mashkov Nikita",
+    "author": "Kulakov Danila",
     "license": "ISC",
     "dependencies": {
         "cron": "^2.3.0",
